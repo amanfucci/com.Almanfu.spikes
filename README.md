@@ -2,6 +2,8 @@
 
 [Download Signed Apk](./35.apk)
 
+[View on Play Store](https://play.google.com/store/apps/details?id=com.Almanfu.spikes)
+
 # com.Almanfu.spikes
 
 ![](./Media/Screenshot_20191228-174733_Spikes.jpg)
